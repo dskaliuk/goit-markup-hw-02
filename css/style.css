@@ -90,6 +90,10 @@ footer>.logo:focus {
 	color: var(--c-accent)
 }
 
+.footer {
+	background-color: var(--c-backgr-dark);
+}
+
 /* Styles for index.html */
 
 .title {
@@ -205,8 +209,4 @@ footer>.logo:focus {
 
 .command {
 	background-color: var(--c-backgr-second);
-}
-
-.footer {
-	background-color: var(--c-backgr-dark);
 }
