@@ -165,6 +165,8 @@ footer>.logo:focus {
 	letter-spacing: 0.42px;
 }
 
+/*  Styles for portfolio.html */
+
 .command-list .title {
 	text-align: center;
 	font-size: 16px;
@@ -200,6 +202,7 @@ footer>.logo:focus {
 .hero {
 	background-color: var(--c-backgr-dark);
 }
+
 .command {
 	background-color: var(--c-backgr-second);
 }
